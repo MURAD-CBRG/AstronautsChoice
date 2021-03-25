@@ -1,0 +1,19 @@
+* {
+	color: black;
+}
+
+body {
+	background-color: #00072e;
+}
+
+header {
+	background-color: darkgray;
+}
+
+form {
+	background-color: darkgray;
+	width: 50%;
+	border: 1px solid black;
+	border-radius: 10px;
+	padding: 3%;
+}
